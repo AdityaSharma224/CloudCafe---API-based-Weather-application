@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CloudCafe---API-based-Weather-application/static/css/main.5a55c1ca.css",
+    "main.js": "/CloudCafe---API-based-Weather-application/static/js/main.eefd6784.js",
+    "static/js/787.d9312eb8.chunk.js": "/CloudCafe---API-based-Weather-application/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/CloudCafe---API-based-Weather-application/index.html",
+    "main.5a55c1ca.css.map": "/CloudCafe---API-based-Weather-application/static/css/main.5a55c1ca.css.map",
+    "main.eefd6784.js.map": "/CloudCafe---API-based-Weather-application/static/js/main.eefd6784.js.map",
+    "787.d9312eb8.chunk.js.map": "/CloudCafe---API-based-Weather-application/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a55c1ca.css",
+    "static/js/main.eefd6784.js"
+  ]
+}
